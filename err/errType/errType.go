@@ -1,0 +1,26 @@
+package errType
+
+const (
+	Analysis     = "Analysis Error"
+	APIExecution = "API Execution Error"
+	Argument     = "Argument Error"
+	Auth         = "Authentication Error"
+	Conversion   = "Conversion Error"
+	CreateClient = "Create Client Error"
+	CreateFile   = "Create File Error"
+	Execution    = "Execution Error"
+	Extract      = "Extract Value Error"
+	FileOpen     = "File open Error"
+	GetEnv       = "Get env Error"
+	Handle       = "Handle Error"
+	HTTPRequest  = "HTTP Request Error"
+	HTTPResponse = "HTTP Response Error"
+	IORead       = "IO Read Error"
+	JSONParse    = "JSON Parse Error"
+	NotFound     = "not found Error"
+	OSPipe       = "OS Pipe Error"
+	Pager        = "Pager Error"
+	ReadFile     = "Read file Error"
+	WriteFile    = "Write File Error"
+	YAMLParse    = "YAML Parse Error"
+)
