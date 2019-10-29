@@ -42,7 +42,7 @@ func TestLookupByEmail(t *testing.T) {
 		})
 	})
 }
-
+jj
 func lookupByEmailMock(uv *url.Values, ul string, res interface{}) {
 	emailList := []string{"uzuki@pepabo.com", "rin@pepabo.com", "mio@pepabo.com"}
 	email := checkEmail((*uv)["email"][0], emailList)
@@ -51,7 +51,7 @@ func lookupByEmailMock(uv *url.Values, ul string, res interface{}) {
 	err.Found(e, errType.ReadFile)
 
 	e = json.Unmarshal(body, &res)
-	err.Found(e, errType.JSONParse)
+	err.Found(e, errType.ParseJSON)
 }
 
 func checkEmail(email string, emailList []string) string {

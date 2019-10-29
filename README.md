@@ -19,3 +19,4 @@
 [逆引きGolang (マップ)](https://ashitani.jp/golangtips/tips_map.html)  
 [Go言語(golang)でのYAMLの使い方](https://golang.hateblo.jp/entry/2018/11/08/183555#YAML-%E3%81%8B%E3%82%89-map-%E3%81%AB%E3%81%99%E3%82%8B---Unmarshal)  
 [Goを始めて1年間で最高にお世話になったGo関連ブックマークを晒します。](https://qiita.com/po3rin/items/0d8fef14bfe222f334b7)  
+[構造体などをテストするのに便利なgoogle/go-cmpの使い方](https://qiita.com/hgsgtk/items/bd78bada902c91745fa5)  
