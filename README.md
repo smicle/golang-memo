@@ -2,6 +2,7 @@
 
 ## link
 
+[WSLで最新バージョンのGo環境構築](https://qiita.com/10380r/items/37d0bf71b0e19a49ce53)  
 [Goを始めて1年間で最高にお世話になったGo関連ブックマークを晒します。](https://qiita.com/po3rin/items/0d8fef14bfe222f334b7)  
 [[Golang] 文字列操作サンプル](https://qiita.com/tchnkmr/items/b3d0b884db8d7d91fb1b)  
 [逆引きGolang (マップ)](https://ashitani.jp/golangtips/tips_map.html)  
